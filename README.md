@@ -1,7 +1,7 @@
 ###
 
 <h1> Hello & Welcome 👋🏻</h1>
-<p><i></i>My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</i></p>
+<p><i>My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</i></p>
 <br>
 <br>
 <br>
