@@ -3,6 +3,8 @@
 <p align="">Portfolio: https://dennisbyberg.vercel.app/</p>
 <p align="">Discord: https://discordapp.com/users/869149120093388830</p>
 
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
+
 ###
 
 <h4 align="center">Github Stats</h4>
@@ -16,6 +18,8 @@
 </div>
 
 ###
+
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 <h4 align="center">Languages, Frameworks & Tools</h4>
 
