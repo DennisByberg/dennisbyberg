@@ -8,8 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 <h3 align="center">Languages, Frameworks & Tools</h3>
