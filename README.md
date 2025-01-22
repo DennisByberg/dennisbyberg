@@ -1,8 +1,7 @@
+###
+
 <p align="">Portfolio: https://dennisbyberg.vercel.app/</p>
 <p align="">Discord: https://discordapp.com/users/869149120093388830</p>
-
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-
 
 ###
 
@@ -11,12 +10,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
 </div>
-
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 ###
 
