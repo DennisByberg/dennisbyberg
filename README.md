@@ -57,6 +57,8 @@
 
 ###
 
+<hr/>
+
 <h4 align="center">Profile Views</h4>
 
 ###
