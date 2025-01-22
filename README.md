@@ -2,7 +2,6 @@
 <p><i>My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</i></p>
 <br>
 <br>
-<br>
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
