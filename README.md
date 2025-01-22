@@ -1,7 +1,7 @@
 ###
 
-<p align="">Portfolio: https://dennisbyberg.vercel.app/</p>
-<p align="">Discord: https://discordapp.com/users/869149120093388830</p>
+[PORTFOLIO](https://dennisbyberg.vercel.app/)  
+[DISCORD](https://discordapp.com/users/869149120093388830)
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
