@@ -1,5 +1,5 @@
 <h3 align="center">Hello Word! 👋<br>My name is Dennis Byberg - I'm a Junior Frontend Web Developer from Sweden</h3>
-<hr/>
+
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 
@@ -15,7 +15,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
 </div>
 
-<hr/>
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<hr/>
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 <h4 align="center">Profile Views</h4>
 
