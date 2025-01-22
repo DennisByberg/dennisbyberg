@@ -2,12 +2,10 @@
 
 <h1 align="center">Hello & Welcome 👋🏻</h1>
 <p align="center">My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</hp>
-###
-###
 
+
+###
 <h3 align="center">Github Stats</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
