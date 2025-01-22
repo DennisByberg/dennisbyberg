@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="center">Github Stats</h4>
+<h3 align="center">Github Stats</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
-<h4 align="center">Languages, Frameworks & Tools</h4>
+<h3 align="center">Languages, Frameworks & Tools</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
-<h4 align="center">Profile Views</h4>
+<h3 align="center">Profile Views</h3>
 
 ###
 
