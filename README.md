@@ -1,6 +1,5 @@
 ###
 <h1 align="center">Hello & Welcome<h1/> 
-###
 
 <h3 align="center">Github Stats</h3>
 
