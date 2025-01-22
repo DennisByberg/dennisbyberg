@@ -1,6 +1,6 @@
 ###
 
-<p align="">Portfolio: https://dennisbyberg.vercel.app/ <img src="https://cdn-icons-png.flaticon.com/128/5069/5069184.png"/> </p>
+<p align="">Portfolio: https://dennisbyberg.vercel.app/ <img height="12" width="12" src="https://cdn-icons-png.flaticon.com/128/5069/5069184.png"/> </p>
 <p align="">Discord: https://discordapp.com/users/869149120093388830</p>
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
