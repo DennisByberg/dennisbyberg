@@ -1,9 +1,9 @@
 ###
 
-[PORTFOLIO](https://dennisbyberg.vercel.app/)
+[WEBSITE PORTFOLIO](https://dennisbyberg.vercel.app/)
 <br/>
 <br/>
-[DISCORD](https://discordapp.com/users/869149120093388830)
+[MY DISCORD](https://discordapp.com/users/869149120093388830)
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
