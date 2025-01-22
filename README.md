@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hello & Welcome 👋🏻<h2/> 
+<h2 align="center">Hello & Welcome 👋🏻</h2>
 
 ###
 
