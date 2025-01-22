@@ -1,5 +1,4 @@
 ###
-<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/ec09b97c175ebf8303394fa7d948c845bcf1d3db/assets/animated-wave.svg"/>
 <h3 align="center">Github Stats</h3>
 ###
 
@@ -62,5 +61,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/dennisbyberg/count.svg?"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/ec09b97c175ebf8303394fa7d948c845bcf1d3db/assets/animated-wave.svg"/>
 
 ###
