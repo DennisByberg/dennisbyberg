@@ -1,8 +1,5 @@
 ###
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-#Hello & Welcome
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-
+<h1 align="center">Hello & Welcome<h1/> 
 ###
 
 <h3 align="center">Github Stats</h3>
