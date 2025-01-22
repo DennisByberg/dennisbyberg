@@ -1,7 +1,8 @@
 ###
 
 [PORTFOLIO](https://dennisbyberg.vercel.app/)
-<br>
+<br/>
+<br/>
 [DISCORD](https://discordapp.com/users/869149120093388830)
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
