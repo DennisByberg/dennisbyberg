@@ -1,6 +1,7 @@
 <h3 align="center">Hello Word! 👋<br>My name is Dennis Byberg - I'm a Junior Frontend Web Developer from Sweden</h3>
 <hr/>
-https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
+
 
 ###
 
