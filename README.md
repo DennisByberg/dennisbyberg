@@ -3,6 +3,7 @@
 <h1 align="center">Hello & Welcome 👋🏻</h1>
 <p align="center">My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</hp>
 ###
+###
 
 <h3 align="center">Github Stats</h3>
 
