@@ -2,8 +2,6 @@
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
-###
-
 <h3 align="center">Github Stats</h3>
 
 ###
