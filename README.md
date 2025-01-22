@@ -1,6 +1,6 @@
 ###
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-<p fontSize="50" align="center">Hello & Welcome</p>
+<p size="50" align="center">Hello & Welcome</p>
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 ###
