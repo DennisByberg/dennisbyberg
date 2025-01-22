@@ -1,5 +1,5 @@
 <h4 align="">Portfolio: https://dennisbyberg.vercel.app/</h4>
-<h4 align="">https://discordapp.com/users/869149120093388830</h4>
+<h4 align="">Discord: https://discordapp.com/users/869149120093388830</h4>
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
