@@ -1,5 +1,5 @@
-<h1> Hello & Welcome 👋🏻</h1>
-<p><i>My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</i></p>
+<h1 align="center"> Hello & Welcome 👋🏻</h1>
+<p align="center"><i>My name is Dennis Byberg. I'm a Junior Frontend Developer with 3 years of experience. My focus is React & Next.js</i></p>
 <br>
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
