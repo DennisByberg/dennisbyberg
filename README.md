@@ -1,5 +1,5 @@
 <h1 align="center"> Hello & Welcome 👋🏻</h1>
-<p align="center"><i>My name is Dennis Byberg. I'm a Student/Junior Fullstack Developer</i></p>
+<p align="center"><i>My name is Dennis Byberg - I'm a Student/Junior Fullstack Developer</i></p>
 <br>
 
 <img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
