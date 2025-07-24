@@ -44,9 +44,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=99&theme=nightowl&hide_border=false" height="300" alt="languages graph"  />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" width="500" height="300" alt="stats graph"  />
 </div>
 <hr>
 
