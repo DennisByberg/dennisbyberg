@@ -1,4 +1,7 @@
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 <h1 align="center"> Hello & Welcome 👋🏻</h1>
+<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
+
 <p align="center"><i>My name is Dennis Byberg - I'm a Student/Junior Fullstack Developer</i></p>
 <br>
 
