@@ -1,29 +1,14 @@
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 <div align="center">
-  <strong style="font-size: 2em;">Hello & Welcome 👋🏻</strong>
+  <h3 align="center">Hello & Welcome 👋🏻</h3>
 </div>
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 <p align="center"><i>My name is Dennis Byberg - I'm a Student/Junior Fullstack Developer</i></p>
-<br>
-
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
 
 ###
-<h3 align="center">Github Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
-</div>
-
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-
+<hr>
 <h3 align="center">Languages, Frameworks & Tools</h3>
-
-###
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -52,17 +37,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+<hr>
 
-<img src="https://github.com/godkingjay/godkingjay/raw/master/assets/borderseparator.gif"/>
-
-<h3 align="center">Profile Views</h3>
+<h3 align="center">Github Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dennisbyberg/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dennisbyberg&theme=tokyonight&column=8&row=1&no-frame=true&no-bg=true&margin-w=3&margin-h=4" height="150" alt="trophy graph"  />
 </div>
+<hr>
+
+###
 
 <img src="https://raw.githubusercontent.com/godkingjay/godkingjay/ec09b97c175ebf8303394fa7d948c845bcf1d3db/assets/animated-wave.svg"/>
 
