@@ -3,8 +3,15 @@
 A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Gothenburg, Sweden.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> **Current Setup**
-- **OS:** Linux Mint
-- **Editor:** VS Code
+[![OS](https://skillicons.dev/icons?i=linux,mint,vscode,obsidian)](https://skillicons.dev) 
+- **OS:** Linux Mint 22.2 Cinnamon (Kernel 6.14)
+- **Machine:** Lenovo IdeaPad 5 14ALC05
+- **CPU:** AMD Ryzen 7 5700U (8-core, 16-thread)
+- **RAM:** 16 GB
+- **GPU:** AMD Radeon Graphics (Lucienne)
+- **Storage:** 512 GB NVMe SSD (Western Digital PC SN730)
+- **Editor:** VS Code (latest)
+- **Documentation:** Obsidian
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack**
 
@@ -24,7 +31,7 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,bash)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bun,npm,obsidian,md,linux,mint)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,bun,npm)](https://skillicons.dev)
 
 ### Testing
 [![Testing](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
