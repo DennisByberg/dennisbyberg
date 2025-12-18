@@ -12,7 +12,7 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite,redux,figma)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,nodejs)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi)](https://skillicons.dev)
 
 ### Database
 [![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
