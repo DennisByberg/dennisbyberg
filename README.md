@@ -1,40 +1,37 @@
 # Hi... I'm Dennis <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-
-A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Gothenburg, Sweden.
+A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Gothenburg, Sweden. I document my daily work in **Obsidian** and code in **VS Code**.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> **Current Setup**
-[![OS](https://skillicons.dev/icons?i=linux,mint,vscode,obsidian)](https://skillicons.dev) 
-- **OS:** Linux Mint 22.2 Cinnamon (Kernel 6.14)
-- **Machine:** Lenovo IdeaPad 5 14ALC05
-- **CPU:** AMD Ryzen 7 5700U (8-core, 16-thread)
-- **RAM:** 16 GB
-- **GPU:** AMD Radeon Graphics (Lucienne)
-- **Storage:** 512 GB NVMe SSD (Western Digital PC SN730)
-- **Editor:** VS Code (latest)
-- **Documentation:** Obsidian
+
+**OS:** Linux Mint 22.2 Cinnamon (Kernel 6.14)  
+**Machine:** Lenovo IdeaPad 5 14ALC05  
+**CPU:** AMD Ryzen 7 5700U (8-core, 16-thread)  
+**RAM:** 16 GB  
+**GPU:** AMD Radeon Graphics (Lucienne)  
+**Storage:** 512 GB NVMe SSD (Western Digital PC SN730)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack**
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite,redux,figma)](https://skillicons.dev)
+React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite, Redux, Figma
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi)](https://skillicons.dev)
+C#, .NET, Python, FastAPI
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
+MongoDB, PostgreSQL, MySQL
 
 ### Cloud
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+Azure, AWS, GCP
 
 ### DevOps
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,bash)](https://skillicons.dev)
+Docker, Kubernetes, Terraform, GitHub Actions, Bash
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,bun,npm)](https://skillicons.dev)
+Git, GitHub, Bun, npm
 
 ### Testing
-[![Testing](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
+Jest, Vitest
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Github Stats**
 
