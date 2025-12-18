@@ -10,5 +10,3 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisbyberg&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=99&theme=nightowl&hide_border=false" height="300" alt="languages graph"  />
 
 <img src="https://github-readme-stats.vercel.app/api?username=dennisbyberg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" width="500" height="300" alt="stats graph"  />
-
-<img src="https://raw.githubusercontent.com/godkingjay/godkingjay/ec09b97c175ebf8303394fa7d948c845bcf1d3db/assets/animated-wave.svg"/>
