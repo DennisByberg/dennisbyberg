@@ -3,8 +3,8 @@
 A **Full Stack Developer** and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Gothenburg, Sweden.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> **Current Setup**
-- **OS:** Linux Mint 22.2
-- **Editor:** VS Code (latest)
+- **OS:** Linux Mint
+- **Editor:** VS Code
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Tech Stack**
 
@@ -12,16 +12,22 @@ A **Full Stack Developer** and an advocate for building **responsive**, **access
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite,redux,figma)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,nodejs,bun)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,nodejs)](https://skillicons.dev)
 
-### Database & Cloud
-[![Database & Cloud](https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,azure,gcp)](https://skillicons.dev)
+### Database
+[![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
-### DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,github,githubactions,bash,linux)](https://skillicons.dev)
+### Cloud
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
-### Testing & Others
-[![Testing](https://skillicons.dev/icons?i=jest,vitest,vscode,obsidian,md,npm,mint)](https://skillicons.dev)
+### DevOps
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,bash)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bun,npm,obsidian,md,linux,mint)](https://skillicons.dev)
+
+### Testing
+[![Testing](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Github Stats**
 
