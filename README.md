@@ -24,21 +24,34 @@ After several years in the restaurant and logistics industry, I transitioned to 
 ### Frontend
 React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite, Redux, Material UI, Figma
 
+<br>
+
 ### Backend & Database
 C#, .NET, ASP.NET, REST APIs, Entity Framework, Python, FastAPI | SQL, MongoDB, PostgreSQL, MySQL
 
+<br>
+
 ### Cloud & DevOps
 Azure, AWS, GCP | Docker, Kubernetes, Terraform, CI/CD Pipelines, GitHub Actions, Bash
+
+<br>
 
 ### Tools & Testing
 Git, GitHub, Bun, npm, Agile, Kanban, Clean Code, OOP | TDD, xUnit, React Testing Library, Jest, Vitest
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> **Experience**
 
-### Frontend Developer, Internship
+### Fullstack & Cloud Developer, Internship
+**Ess Group, Gothenburg** | _Dec 2026 - May 2026 (Current)_
+
+<br>
+
+### Fullstack & Cloud Developer, Internship
 **Volvo Cars, Gothenburg** | _Nov 2023 - May 2024_
 - Worked in an agile team developing a comprehensive redesigned schema management tool using React integrated with Microsoft Dynamics
 - Conducted thesis project focusing on taking a product from development to production within DevOps frameworks
+
+<br>
 
 ### Bartender/Waiter, Part-time
 **Hills Golf & Sports Club, Gothenburg** | _Mar 2022 - Jan 2025_
@@ -46,11 +59,15 @@ Git, GitHub, Bun, npm, Agile, Kanban, Clean Code, OOP | TDD, xUnit, React Testin
 - Provided guest service during major events
 - Managed sales of golf products and handled rental of golf equipment
 
+<br>
+
 ### Delivery Driver, Full-time
 **UPS Sverige, Gothenburg** | _May 2019 - Aug 2021_
 - Handled deliveries and package pickup in central Gothenburg
 - Optimized delivery routes for maximum load capacity
 - Direct customer contact during delivery issues and managed time-critical deliveries under pressure
+
+<br>
 
 ### Bartender, Full-time
 **Hard Rock Café, Gothenburg** | _Nov 2017 - Mar 2019_
@@ -63,11 +80,17 @@ Git, GitHub, Bun, npm, Agile, Kanban, Clean Code, OOP | TDD, xUnit, React Testin
 ### Cloud Development
 **Campus Mölndal Yrkeshögskola** | _Sep 2024 - May 2026 (Current)_
 
+<br>
+
 ### Frontend Development
 **Jensen Yrkeshögskola** | _Aug 2022 - Jun 2024_
 
+<br>
+
 ### .NET Development
 **Campus Mölndal Yrkeshögskola** | _Aug 2021 - Aug 2022_
+
+<br>
 
 ### Electrical Engineering Program, Computer Tech
 **Hulebäcksgymnasiet** | _2010 - 2013_
