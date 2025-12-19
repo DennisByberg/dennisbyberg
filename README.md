@@ -71,3 +71,5 @@ Git, GitHub, Bun, npm, Agile, Kanban, Clean Code, OOP | TDD, xUnit, React Testin
 
 ### Electrical Engineering Program, Computer Tech
 **Hulebäcksgymnasiet** | _2010 - 2013_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
