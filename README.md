@@ -15,23 +15,14 @@ A **Full Stack & Cloud Developer** and an advocate for building **responsive**, 
 ### Frontend
 React, Next.js, TypeScript, JavaScript, HTML, CSS, Vite, Redux, Figma
 
-### Backend
-C#, .NET, Python, FastAPI
+### Backend & Database
+C#, .NET, Python, FastAPI | MongoDB, PostgreSQL, MySQL
 
-### Database
-MongoDB, PostgreSQL, MySQL
+### Cloud & DevOps
+Azure, AWS, GCP | Docker, Kubernetes, Terraform, GitHub Actions, Bash
 
-### Cloud
-Azure, AWS, GCP
-
-### DevOps
-Docker, Kubernetes, Terraform, GitHub Actions, Bash
-
-### Tools
-Git, GitHub, Bun, npm
-
-### Testing
-Jest, Vitest
+### Tools & Testing
+Git, GitHub, Bun, npm | Jest, Vitest
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Github Stats**
 
