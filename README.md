@@ -4,10 +4,9 @@ After several years in the restaurant and logistics industry, I transitioned to 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> **Coding Profiles & Learning**
 
-**Codecademy:** [dennisbyberg](https://www.codecademy.com/profiles/dennisbyberg)  
-**LeetCode:** [dennisbyberg](https://leetcode.com/u/dennisbyberg/)  
-**Codewars:** [Dennis Byberg](https://www.codewars.com/users/Dennis%20Byberg)  
-**Code with Mosh:** Currently learning through various courses
+Platforms I use for continuous learning and problem-solving practice:
+
+[Codecademy](https://www.codecademy.com/profiles/dennisbyberg) • [LeetCode](https://leetcode.com/u/dennisbyberg/) • [Codewars](https://www.codewars.com/users/Dennis%20Byberg) • [Code with Mosh](https://codewithmosh.com/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> **GitHub Stats**
 
