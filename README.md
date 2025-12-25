@@ -2,11 +2,12 @@
 
 After several years in the restaurant and logistics industry, I transitioned to software development, combining a strong service mindset with modern development practices. I'm passionate about building **responsive**, **accessible**, and **inclusive** digital products. Outside of coding, you'll find me with family, friends or enjoying football.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> **Find Me On**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> **Coding Profiles & Learning**
 
-- **Codecademy:** [dennisbyberg](https://www.codecademy.com/profiles/dennisbyberg)
-- **LinkedIn:** [dennisbyberg](https://www.linkedin.com/in/dennisbyberg/)
-- **Portfolio:** [dennisbyberg.vercel.app](https://dennisbyberg.vercel.app/)
+**Codecademy:** [dennisbyberg](https://www.codecademy.com/profiles/dennisbyberg)  
+**LeetCode:** [dennisbyberg](https://leetcode.com/u/dennisbyberg/)  
+**Codewars:** [Dennis Byberg](https://www.codewars.com/users/Dennis%20Byberg)  
+**Code with Mosh:** Currently learning through various courses
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> **GitHub Stats**
 
