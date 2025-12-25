@@ -6,7 +6,7 @@ After several years in the restaurant and logistics industry, I transitioned to 
 
 You can find me practicing algorithms and learning new skills on:
 
-[Codecademy](https://www.codecademy.com/profiles/dennisbyberg) • [LeetCode](https://leetcode.com/u/dennisbyberg/) • [Codewars](https://www.codewars.com/users/Dennis%20Byberg) • [Code with Mosh](https://codewithmosh.com/)
+[Codecademy/profile](https://www.codecademy.com/profiles/dennisbyberg) • [LeetCode/profile](https://leetcode.com/u/dennisbyberg/) • [Codewars/profile](https://www.codewars.com/users/Dennis%20Byberg) • [Code with Mosh](https://codewithmosh.com/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> **GitHub Stats**
 
