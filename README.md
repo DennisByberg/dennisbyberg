@@ -1,4 +1,4 @@
-# Hi... I'm Dennis <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi... I'm Dennis <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="35" height="35"></picture>
 
 After several years in the restaurant and logistics industry, I transitioned to software development, combining a strong service mindset with modern development practices. I'm passionate about building **responsive**, **accessible**, and **inclusive** digital products. Outside of coding, you'll find me with family, friends or enjoying football.
 
