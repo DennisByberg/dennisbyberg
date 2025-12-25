@@ -1,6 +1,6 @@
 # Hi... I'm Dennis <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="35" height="35"></picture>
 
-After several years in the restaurant and logistics industry, I transitioned to software development, combining a strong service mindset with modern development practices. I'm passionate about building **responsive**, **accessible**, and **inclusive** digital products. Outside of coding, you'll find me with family, friends or enjoying football.
+After several years in the restaurant and logistics industry, I transitioned to software development, combining a strong service mindset with modern development practices. I'm passionate about building **responsive**, **accessible**, and **inclusive** digital products. Outside of coding, you'll find me with family, friends or enjoying football – particularly FC Barcelona.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> **Coding Profiles & Learning**
 
