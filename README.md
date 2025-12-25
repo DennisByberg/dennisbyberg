@@ -4,12 +4,20 @@ After several years in the restaurant and logistics industry, I transitioned to 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> **Coding Profiles & Learning**
 
-You can find me practicing algorithms and learning new skills on:
+### Practice Platforms
 
 **Codecademy:** [view profile](https://www.codecademy.com/profiles/dennisbyberg)  
 **LeetCode:** [view profile](https://leetcode.com/u/dennisbyberg/)  
 **Codewars:** [view profile](https://www.codewars.com/users/Dennis%20Byberg)  
 **Code with Mosh**
+
+### Personal Learning Projects
+
+**SQL:** [learning-sql](https://github.com/DennisByberg/learning-sql)  
+**Python:** [learning-python](https://github.com/DennisByberg/learning-python)  
+**Kubernetes:** [learning-k8s](https://github.com/DennisByberg/learning-k8s)
+
+For my actual projects, check out my [GitHub repositories](https://github.com/DennisByberg?tab=repositories).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30"/> **GitHub Stats**
 
