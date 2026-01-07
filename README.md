@@ -3,7 +3,7 @@
 After several years in the restaurant and logistics industry, I transitioned to software development, combining a strong service mindset with modern development practices. Outside of coding, you'll find me with family, friends or enjoying football – particularly FC Barcelona.
 
 ## 🚀 Featured Projects
-1. **team1-merch-shop** - [Live](https://merchstorefrontend.agreeabledesert-a7938720.swedencentral.azurecontainerapps.io/) | [Repository](https://github.com/DennisByberg/team1-merch-shop)
+1. **team1-merch-shop** - [Repository](https://github.com/DennisByberg/team1-merch-shop) | [Live](https://merchstorefrontend.agreeabledesert-a7938720.swedencentral.azurecontainerapps.io/)
 2. **k8s-todo** - [Repository](https://github.com/DennisByberg/k8s-todo)
 3. **clo24-denbyb94-exam** - [Repository](https://github.com/DennisByberg/clo24-denbyb94-exam)
 4. **advent-of-code-2025** - [Repository](https://github.com/DennisByberg/advent-of-code-2025)
