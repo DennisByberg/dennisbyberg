@@ -30,4 +30,12 @@ After several years in the restaurant and logistics industry, I transitioned to 
 ## 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,vite,nextjs,html,css,git,github,vscode,docker,mongodb,postgres,mysql,sqlite,azure,aws,gcp,vitest,jest,npm,bun,kubernetes,terraform,py,fastapi,bash,linux,mint,figma,obsidian,md,sass&perline=13)](#)
 
+## 💻 Coding Platforms
+
+You can also find me actively practicing and sharpening my problem-solving skills on these platforms:
+
+- **Boot.dev**: https://www.boot.dev/u/dennisbyberg
+- **LeetCode**: https://leetcode.com/u/dennisbyberg/
+- **Codewars**: https://www.codewars.com/users/Dennis%20Byberg
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
