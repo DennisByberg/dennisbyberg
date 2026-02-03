@@ -4,38 +4,11 @@ After several years in the restaurant and logistics industry, I transitioned to 
 
 ## 🚀 Projects
 
-### Featured
-1. [next-portfolio](https://github.com/DennisByberg/next-portfolio)
-2. [advent-of-code-2025](https://github.com/DennisByberg/advent-of-code-2025)
-3. [codewars-solutions](https://github.com/DennisByberg/codewars-solutions)
-4. [leetcode-solutions](https://github.com/DennisByberg/leetcode-solutions)
+A selection of the work I’m most proud of, from problem‑solving challenges and full‑stack experiments to tools I’ve built to sharpen my skills and explore new technologies.
 
-### School
-1. [clo24-denbyb94-exam](https://github.com/DennisByberg/clo24-denbyb94-exam)
-2. [team1-merch-shop](https://github.com/DennisByberg/team1-merch-shop)
-3. [k8s-todo](https://github.com/DennisByberg/k8s-todo)
-4. [aws-scalable-hosting](https://github.com/DennisByberg/assignment2-aws-scalable-hosting)
-5. [wordpress-aws-infrastructure-assignment](https://github.com/DennisByberg/wordpress-aws-infrastructure-assignment)
-6. [dictionary](https://github.com/DennisByberg/dictionary)
-7. [movita-juice-bar](https://github.com/DennisByberg/movita-juice-bar)
-8. [eco-hero](https://github.com/DennisByberg/eco-hero)
-9. [mocktail](https://github.com/DennisByberg/mocktail)
-10. [quiztopia](https://github.com/DennisByberg/quiztopia)
-
-### Learning
-1. [learning-sql](https://github.com/DennisByberg/learning-sql)
-2. [learning-python](https://github.com/DennisByberg/learning-python)
-3. [learning-k8s](https://github.com/DennisByberg/learning-k8s)
+[repos](https://github.com/DennisByberg?tab=repositories)
 
 ## 🛠️ Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,vite,nextjs,html,css,git,github,vscode,docker,mongodb,postgres,mysql,sqlite,azure,aws,gcp,vitest,jest,npm,bun,kubernetes,terraform,py,fastapi,bash,linux,mint,figma,obsidian,md,sass&perline=13)](#)
-
-## 💻 Coding Platforms
-
-You can also find me actively practicing and sharpening my problem-solving skills on these platforms:
-
-- **Boot.dev**: https://www.boot.dev/u/dennisbyberg
-- **LeetCode**: https://leetcode.com/u/dennisbyberg/
-- **Codewars**: https://www.codewars.com/users/Dennis%20Byberg
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
