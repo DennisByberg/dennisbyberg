@@ -9,6 +9,9 @@ A selection of the work I’m most proud of, from problem‑solving challenges a
 [repos](https://github.com/DennisByberg?tab=repositories)
 
 ## 🛠️ Languages and Tools
+
+Technologies I’ve worked with across different projects, tools and languages I’m comfortable using and confident applying in real development work.
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,vite,nextjs,html,css,git,github,vscode,docker,mongodb,postgres,mysql,sqlite,azure,aws,gcp,vitest,jest,npm,bun,kubernetes,terraform,py,fastapi,bash,linux,mint,figma,obsidian,md,sass&perline=13)](#)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
